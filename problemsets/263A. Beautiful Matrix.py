@@ -1,4 +1,4 @@
-#Problem: Beautiful Matrix
+#Problem: 263A. Beautiful Matrix
 #Link: https://codeforces.com/problemset/problem/263/A
 
 l=[]
